@@ -41,9 +41,9 @@
 8.Конец
 ### Блок-схема
 
-<img width="379" height="589" alt="Block_chema_6" src="https://github.com/user-attachments/assets/533e14d6-f599-48cf-b547-32087b529118" />
+![Блок_схема](https://github.com/user-attachments/assets/4ed8a0b3-17a5-4dfe-a618-e86764198068)
 
-https://github.com/VadimShushlebin/Lab6/blob/master/Block_chema_6.png
+https://github.com/VadimShushlebin/Lab6/blob/master/%D0%91%D0%BB%D0%BE%D0%BA_%D1%81%D1%85%D0%B5%D0%BC%D0%B0.jpg
 
 ## 2. Реализация программы
 
